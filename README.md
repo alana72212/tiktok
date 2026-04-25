@@ -19,6 +19,7 @@ This repo contains the following algorithms for TikTok's Web SDK:
 - This is for educational and research purposes only
 - Do not use this to abuse TikTok's anti-abuse systems
 - Some algorithms may have changed- this is SDK version `5.1.1` (current is `5.1.3-ZTCA`)
+- Can offer API with latest algorithms upon request
 
 # Contact
 
@@ -28,4 +29,4 @@ Contact via *Telegram* or *email* is available
 - Email : `alana72212@proton.me`
 
 # Takedowns
-⚠️I am **fully willing to comply** with any takedown request by the order of *TikTok*, *ByteDance*, or *associated parties* ⚠️
+⚠️I am **fully compliant** with any takedown request by the order of *TikTok*, *ByteDance*, or *associated parties* ⚠️
