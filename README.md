@@ -1,4 +1,4 @@
-# tiktok
+# TikTok API
 TikTok Web Signatures Reverse Engineered
 
 This repo contains the following algorithms for TikTok's Web SDK:
@@ -22,7 +22,10 @@ This repo contains the following algorithms for TikTok's Web SDK:
 
 # Contact
 
-Contact via `Telegram` or `email` is available
+Contact via *Telegram* or *email* is available
+
+- Telegram : `@Fyxavwfunctionstringstring`
+- Email : `alana72212@proton.me`
 
 # Takedowns
 ⚠️I am **fully willing to comply** with any takedown request by the order of *TikTok*, *ByteDance*, or *associated parties* ⚠️
